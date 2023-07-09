@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ASP.NET_WEBAPI_WITH_IDENTITY_JWT_CHECKING.props" />
+</Project>

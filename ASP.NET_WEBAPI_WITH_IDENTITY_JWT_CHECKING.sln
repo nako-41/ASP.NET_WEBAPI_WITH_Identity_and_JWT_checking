@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET_WEBAPI_WITH_IDENTITY_JWT_CHECKING", "ASP.NET_WEBAPI_WITH_IDENTITY_JWT_CHECKING\ASP.NET_WEBAPI_WITH_IDENTITY_JWT_CHECKING.csproj", "{F5DEABAF-6D08-40BE-918E-3488E80E6F1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5DEABAF-6D08-40BE-918E-3488E80E6F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DEABAF-6D08-40BE-918E-3488E80E6F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DEABAF-6D08-40BE-918E-3488E80E6F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DEABAF-6D08-40BE-918E-3488E80E6F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D616448-43C2-42FA-8FDC-004F6DF06E12}
+	EndGlobalSection
+EndGlobal

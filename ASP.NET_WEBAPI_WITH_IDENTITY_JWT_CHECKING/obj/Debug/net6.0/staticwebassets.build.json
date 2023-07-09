@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4gInU8jeVL8wHb3HiPWRFW1+H80K172ExSO9R4gY4vQ=",
+  "Source": "ASP.NET_WEBAPI_WITH_IDENTITY_JWT_CHECKING",
+  "BasePath": "_content/ASP.NET_WEBAPI_WITH_IDENTITY_JWT_CHECKING",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
